@@ -75,7 +75,7 @@ public class SynchronizedQueueTest {
     /**
      * Tests the ArrayBlockingQueue, which should pass without error.
      */
-    @Test
+    //@Test
     public void arrayBlockingQueueTest() {
         // Make the appropriate QueueAdapter for the
         // ArrayBlockingQueue.
